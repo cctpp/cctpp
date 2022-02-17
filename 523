@@ -195,7 +195,7 @@ proxy-providers:
 
   AirPort: #「机场」订阅
     type: http
-    url: "https://muv2.xyz/link/lOG4pdlbqqeicJw8?clash=1&newconf=0" # 放机场订阅链接
+    url: "https://suo.yt/1reUWzp" # 放机场订阅链接
     interval: 3600
     path: ./Proxy/List.yaml # 注意此处文件名不可相同
     health-check:
